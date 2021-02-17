@@ -56,10 +56,7 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 == Frequently Asked Questions ==
 
 = Where can I report an issue? =
-* Please use dedicated support forum https://ask.crunchify.com/c/crunchy-social-sharing to leave comments, ask question, suggest new feature.
-
-= Where can I report an issue? =
-* Please email me directly on app [at] crunchify.com.
+* Contact us here  https://pro.crunchify.com/contact/ to leave comments, ask question, suggest new feature or more.
 
 == Screenshots ==
 
