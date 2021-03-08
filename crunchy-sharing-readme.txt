@@ -5,9 +5,9 @@ Donate link: https://crunchify.com/donate/
 Plugin URI: https://pro.crunchify.com/crunchy-sharing/
 Tags: crunchy social sharing, responsive social buttons, buffer social sharing, responsive social sharing buttons, responsive button, WhatsApp buttons, social button, social sharing, sharing buttons, twitter share, facebook share, linkedin share, pinterest share, reddit share, Tumblr Share button, Mail Share button, Pocket Share button, Telegram Share Button, YCombinator Share button
 Requires at least: 4.8
-Tested up to: 5.6.1
-Requires PHP: 7.2
-Stable tag: 3.6.0
+Tested up to: 5.6.2
+Requires PHP: 7.1
+Stable tag: 3.7.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -90,6 +90,13 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 6. Done and Ready.
 
 == Changelog ==
+
+= 3.7.0 =
+* Fixed PHP Notices and Warnings: WARNING: IN_ARRAY() EXPECTS PARAMETER
+* Bump tested upto 5.6.2 WordPress version
+* Beautify CSS files
+* Admin panel bug fixes
+* More robust code and refactoring
 
 = 3.6.0 =
 * webkit-font-smoothing CSS fix
