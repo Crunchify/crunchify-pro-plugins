@@ -1,4 +1,3 @@
-
 === All-in-One Optimizer and Customizer ===
 Contributors: Crunchify
 Author URI: https://crunchify.com
