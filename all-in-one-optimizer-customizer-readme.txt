@@ -118,4 +118,4 @@ All-in-One Optimizer and Customizer is created with performance in mind. Without
 == Upgrade Notice ==
 
 = 2.1.0 =
-Initial reason
+* Initial reason
