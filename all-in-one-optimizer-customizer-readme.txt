@@ -116,4 +116,5 @@ All-in-One Optimizer and Customizer is created with performance in mind. Without
 
 == Upgrade Notice ==
 
-* Minor Bug Fixes
+= 2.2.0 =
+* Initial Release
