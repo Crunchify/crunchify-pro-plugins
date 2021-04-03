@@ -5,9 +5,9 @@ Donate link: https://crunchify.com/donate/
 Plugin URI: https://pro.crunchify.com/all-in-one-optimizer-and-customizer/
 Tags: All-in-One WordPress Optimizer, Webmaster, Pinterest, SEO, Google, Bing, Google Analytics, Alexa, Blog Central, Quantcast, Facebook Insights, Search Engine Optimization, JQuery, ToolTips,  Crunchify Premium Plugin, All-in-One WordPress Optimizer
 Requires at least: 4.8
-Tested up to: 5.6.1
-Requires PHP: 7.2
-Stable tag: 2.1.0
+Tested up to: 5.7
+Requires PHP: 7.0
+Stable tag: 2.2.0
 License: GPLv3 or later
 
 One of the best All-in-One Optimizer and Customizer is a premium WordPress plugin which provides more than 30 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
@@ -111,11 +111,5 @@ All-in-One Optimizer and Customizer is created with performance in mind. Without
 
 == Changelog ==
 
-= 2.1.0 =
+= 2.2.0 =
 * Initial Release
-
-
-== Upgrade Notice ==
-
-= 2.1.0 =
-* Initial reason
