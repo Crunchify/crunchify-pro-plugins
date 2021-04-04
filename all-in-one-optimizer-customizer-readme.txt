@@ -83,7 +83,7 @@ All-in-One Optimizer and Customizer is created with performance in mind. Without
 * Put Code into Body Section
 * Put Code into Footer Section
 
-[More Details](https://pro.crunchify.com/all-in-one-optimizer-and-customizer/)
+[More Details](https://pro.crunchify.com/all-in-one-optimizer-customizer/)
 
 == Frequently Asked Questions ==
 
