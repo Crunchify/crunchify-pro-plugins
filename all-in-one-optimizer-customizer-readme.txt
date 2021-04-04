@@ -2,7 +2,7 @@
 Contributors: Crunchify
 Author URI: https://crunchify.com
 Donate link: https://crunchify.com/donate/
-Plugin URI: https://pro.crunchify.com/all-in-one-optimizer-and-customizer/
+Plugin URI: https://pro.crunchify.com/all-in-one-optimizer-customizer/
 Tags: All-in-One WordPress Optimizer, Webmaster, Pinterest, SEO, Google, Bing, Google Analytics, Alexa, Blog Central, Quantcast, Facebook Insights, Search Engine Optimization, JQuery, ToolTips,  Crunchify Premium Plugin, All-in-One WordPress Optimizer
 Requires at least: 4.8
 Tested up to: 5.7
