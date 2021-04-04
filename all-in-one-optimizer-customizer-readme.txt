@@ -7,10 +7,10 @@ Tags: All-in-One WordPress Optimizer, Webmaster, Pinterest, SEO, Google, Bing, G
 Requires at least: 4.8
 Tested up to: 5.7
 Requires PHP: 7.0
-Stable tag: 2.2.1
+Stable tag: 2.2.2
 License: GPLv3 or later
 
-One of the best All-in-One Optimizer and Customizer is a premium WordPress plugin which provides more than 30 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
+One of the best All-in-One Optimizer and Customizer is a premium WordPress plugin which provides more than 50 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
 
 == Description ==
 
@@ -111,13 +111,13 @@ All-in-One Optimizer and Customizer is created with performance in mind. Without
 
 == Changelog ==
 
-= 2.2.1 =
+= 2.2.2 =
 * Bug Fixes
 
-= 2.2.0 =
+= 2.2.1 =
 * Initial Release
 
 == Upgrade Notice ==
 
-= 2.2.1 =
+= 2.2.2 =
 * Bug Fixes
