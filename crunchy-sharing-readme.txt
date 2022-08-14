@@ -93,7 +93,7 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 
 = 4.0.0 =
 * Fixed PHP Errors and Warnings for PHP 8.0
-* Fixed PHP Errors and Warnings for PHP 8.0
+* Fixed PHP Errors and Warnings for PHP 8.1
 * Tested upto WordPress 6.0.1
 
 = 3.7.0 =
