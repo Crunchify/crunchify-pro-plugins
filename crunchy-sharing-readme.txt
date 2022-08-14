@@ -4,18 +4,18 @@ Author URI: https://crunchify.com
 Donate link: https://crunchify.com/donate/
 Plugin URI: https://pro.crunchify.com/crunchy-sharing/
 Tags: crunchy social sharing, responsive social buttons, buffer social sharing, responsive social sharing buttons, responsive button, WhatsApp buttons, social button, social sharing, sharing buttons, twitter share, facebook share, linkedin share, pinterest share, reddit share, Tumblr Share button, Mail Share button, Pocket Share button, Telegram Share Button, YCombinator Share button
-Requires at least: 4.8
-Tested up to: 5.6.2
+Requires at least: 5.3
+Tested up to: 6.0.1
 Requires PHP: 7.1
-Stable tag: 3.7.0
+Stable tag: 4.0.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Optimized, No-JavaScript, Responsive, Light Weight, Fastest, GDPR compliant Crunchy Social Sharing Buttons. The only optimized Social Sharing buttons for your WordPress site.
+Optimized, No-JavaScript, Responsive, Light Weight, Fastest, GDPR-compliant Crunchy Social Sharing Buttons. The only optimized Social Sharing buttons for your WordPress site.
 
 == Description ==
 
-Crunchy Sharing is a fastest, optimized, NO-Javascript based, light weight, GDPR compliant Social sharing buttons for your site. Plugin provides more 25 different configuration options for your site.
+Crunchy Sharing is the fastest, optimized, NO-Javascript based, light weight, GDPR-compliant Social sharing buttons for your site. Plugin provides more 25 different configuration options for your site.
 
 Crunchy Sharing is created with performance in mind. Without making any query to Database, External API endpoint, Crunchy Social Sharing button loads in fraction of seconds.
 
@@ -90,6 +90,11 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 6. Done and Ready.
 
 == Changelog ==
+
+= 4.0.0 =
+* Fixed PHP Errors and Warnings for PHP 8.0
+* Fixed PHP Errors and Warnings for PHP 8.0
+* Tested upto WordPress 6.0.1
 
 = 3.7.0 =
 * Fixed PHP Notices and Warnings: WARNING: IN_ARRAY() EXPECTS PARAMETER
