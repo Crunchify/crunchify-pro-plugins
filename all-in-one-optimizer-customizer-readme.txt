@@ -4,17 +4,17 @@ Author URI: https://crunchify.com
 Donate link: https://crunchify.com/donate/
 Plugin URI: https://pro.crunchify.com/all-in-one-optimizer-customizer/
 Tags: All-in-One WordPress Optimizer, Webmaster, Pinterest, SEO, Google, Bing, Google Analytics, Alexa, Blog Central, Quantcast, Facebook Insights, Search Engine Optimization, JQuery, ToolTips,  Crunchify Premium Plugin, All-in-One WordPress Optimizer
-Requires at least: 4.8
-Tested up to: 5.7
+Requires at least: 5.5
+Tested up to: 6.0.1
 Requires PHP: 7.0
-Stable tag: 2.2.2
+Stable tag: 3.0.0
 License: GPLv3 or later
 
 One of the best All-in-One Optimizer and Customizer is a premium WordPress plugin which provides more than 50 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
 
 == Description ==
 
-One of the best All-in-One Optimizer and Customizer is a premium WordPress plugin which provides more than 30 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
+One of the best All-in-One Optimizer and Customizer is a premium WordPress plugin which provides more than 50 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
 
 All-in-One Optimizer and Customizer is created with performance in mind. Without making any query to Database, External API endpoint, Plugin just works.
 
@@ -37,7 +37,7 @@ All-in-One Optimizer and Customizer is created with performance in mind. Without
 * Disable RSS Feed Links
 * Disable Self Pings
 * Disable Dashicons
-* Prevent Wordpress from auto converting old ASCII Smilies to Unicode Emojis (;-) to 😉)
+* Prevent WordPress from auto converting old ASCII Smilies to Unicode Emojis (;-) to 😉)
 
 ** Webmaster Tools: Add metadata and verify services **
 * Google Webmaster Verification Code
@@ -105,11 +105,16 @@ All-in-One Optimizer and Customizer is created with performance in mind. Without
 1. Unpack the all-in-one-optimizer-customizer.zip.
 2. Upload the file to the /wp-content/plugins/ directory.
 3. Activate the plugin through the Plugins menu in WordPress.
-4. Configure the options under Admin Panel AIOW Optimizer -> General Options.
-5. Activate your license by putting your activation key which you got in your email under Admin Panel AIOW Optimizer -> Activate License.
+4. Configure the options under Admin Panel -> AIO Optimizer.
+5. Activate your license by putting your activation key which you got in your email under Admin Panel AIO Optimizer -> Settings.
 6. Done and Ready.
 
 == Changelog ==
+
+= 3.0.0 =
+* Testing upto 6.0.1
+* Fixed PHP warning messages for PHP 8.0
+* Fixed PHP warning messages for PHP 8.1
 
 = 2.2.2 =
 * Bug Fixes
