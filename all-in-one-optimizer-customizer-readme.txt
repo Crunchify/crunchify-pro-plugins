@@ -1,22 +1,22 @@
-=== All-in-One Optimizer and Customizer ===
+=== Crunchy Optimizer ===
 Contributors: Crunchify
 Author URI: https://crunchify.com
 Donate link: https://crunchify.com/donate/
-Plugin URI: https://pro.crunchify.com/all-in-one-optimizer-customizer/
-Tags: All-in-One WordPress Optimizer, Webmaster, Pinterest, SEO, Google, Bing, Google Analytics, Alexa, Blog Central, Quantcast, Facebook Insights, Search Engine Optimization, JQuery, ToolTips,  Crunchify Premium Plugin, All-in-One WordPress Optimizer
-Requires at least: 5.5
-Tested up to: 6.0.1
+Plugin URI: https://crunchify.com/crunchy-optimizer/
+Tags: Crunchy Optimizer, Webmaster, Pinterest, SEO, Google, Bing, Google Analytics, Alexa, Blog Central, Quantcast, Facebook Insights, Search Engine Optimization, JQuery, ToolTips,  Crunchify Premium Plugin, Crunchy Optimizer
+Requires at least: 5.7
+Tested up to: 6.1.1
 Requires PHP: 7.0
-Stable tag: 3.0.0
+Stable tag: 4.0.0
 License: GPLv3 or later
 
-One of the best All-in-One Optimizer and Customizer is a premium WordPress plugin which provides more than 50 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
+One of the best Crunchy Optimizer is a premium WordPress plugin which provides more than 50 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
 
 == Description ==
 
-One of the best All-in-One Optimizer and Customizer is a premium WordPress plugin which provides more than 50 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
+One of the best Crunchy Optimizer is a premium WordPress plugin which provides more than 50 options for you to customizer and optimize WordPress blog with single click. Let's not slow down your WordPress site.
 
-All-in-One Optimizer and Customizer is created with performance in mind. Without making any query to Database, External API endpoint, Plugin just works.
+Crunchy Optimizer is created with performance in mind. Without making any query to Database, External API endpoint, Plugin just works.
 
 **Key features includes**
 ** Performance Tweaks **
@@ -83,7 +83,7 @@ All-in-One Optimizer and Customizer is created with performance in mind. Without
 * Put Code into Body Section
 * Put Code into Footer Section
 
-[More Details](https://pro.crunchify.com/all-in-one-optimizer-customizer/)
+[More Details](https://crunchify.com/crunchy-optimizer/)
 
 == Frequently Asked Questions ==
 
@@ -102,14 +102,20 @@ All-in-One Optimizer and Customizer is created with performance in mind. Without
 
 = Installing the plugin =
 
-1. Unpack the all-in-one-optimizer-customizer.zip.
+1. Unpack the crunchy-optimizer.zip.
 2. Upload the file to the /wp-content/plugins/ directory.
 3. Activate the plugin through the Plugins menu in WordPress.
-4. Configure the options under Admin Panel -> AIO Optimizer.
-5. Activate your license by putting your activation key which you got in your email under Admin Panel AIO Optimizer -> Settings.
+4. Configure the options under Admin Panel -> Optimizer.
+5. Activate your license by putting your activation key which you got in your email under Admin Panel Optimizer -> Settings.
 6. Done and Ready.
 
 == Changelog ==
+
+= 4.0.0 =
+* Testing upto 6.1.1
+* Numerous enhancements
+* Plugin home page URL changed to https://crunchify.com/crunchy-optimizer/
+* Fixed admin console broken links
 
 = 3.0.0 =
 * Testing upto 6.0.1
