@@ -2,12 +2,12 @@
 Contributors: Crunchify
 Author URI: https://crunchify.com
 Donate link: https://crunchify.com/donate/
-Plugin URI: https://pro.crunchify.com/crunchy-sharing/
+Plugin URI: https://crunchify.com/crunchy-sharing/
 Tags: crunchy social sharing, responsive social buttons, buffer social sharing, responsive social sharing buttons, responsive button, WhatsApp buttons, social button, social sharing, sharing buttons, twitter share, facebook share, linkedin share, pinterest share, reddit share, Tumblr Share button, Mail Share button, Pocket Share button, Telegram Share Button, YCombinator Share button
-Requires at least: 5.3
-Tested up to: 6.0.1
+Requires at least: 5.7
+Tested up to: 6.1.1
 Requires PHP: 7.1
-Stable tag: 4.0.0
+Stable tag: 4.1.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -51,7 +51,7 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 
 `[crunchy_social_sharing crunchy_social_sharing_option='facebook,twitter,linkedin,whatsapp,pinterest' twitter_username='Crunchify' icon_order='fa,tw,ln,pi,wh']`
 
-[Demo](https://pro.crunchify.com/crunchy-sharing/)
+[Demo](https://crunchify.com/crunchy-sharing/)
 
 == Frequently Asked Questions ==
 
@@ -91,9 +91,16 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 
 == Changelog ==
 
+= 4.1.1 =
+* Started working on Bitly shortlink integration. It's coming soon.
+
+= 4.1.0 =
+* Fixed Undefined variable $crunchy_thumbnail_url error.
+* Tested upto WordPress 6.1.1
+
 = 4.0.0 =
 * Fixed PHP Errors and Warnings for PHP 8.0
-* Fixed PHP Errors and Warnings for PHP 8.1
+* Fixed PHP Errors and Warnings for PHP 8.0
 * Tested upto WordPress 6.0.1
 
 = 3.7.0 =
