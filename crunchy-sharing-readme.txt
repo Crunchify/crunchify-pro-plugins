@@ -7,7 +7,7 @@ Tags: crunchy social sharing, responsive social buttons, buffer social sharing, 
 Requires at least: 5.7
 Tested up to: 6.1.1
 Requires PHP: 7.1
-Stable tag: 4.1.1
+Stable tag: 4.2.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -39,6 +39,7 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 * Pinterest
 * WhatsApp
 * Buffer
+* Facebook Messenger
 * Reddit
 * Tumblr
 * Mail
@@ -77,6 +78,7 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 15. Floating Button Style
 16. Floating Circle Style
 17. Floating Simple Style
+18. Square Biscuit Style
 
 == Installation ==
 
@@ -90,6 +92,16 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 6. Done and Ready.
 
 == Changelog ==
+
+= 4.2.0 =
+* NEW: Facebook Messenger Sharing Option added
+* NEW: New Square Biscuit style added
+* Lots of CSS optimization
+* Performance improvements
+* Sharing Icon added next to Text (if not empty)
+* Optimized code.
+* Added rel="nofollow noopener noreferrer" for all external sharing links
+* Fixed broken links under settings page
 
 = 4.1.1 =
 * Started working on Bitly shortlink integration. It's coming soon.
