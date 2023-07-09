@@ -5,9 +5,9 @@ Donate link: https://crunchify.com/donate/
 Plugin URI: https://crunchify.com/crunchy-sharing/
 Tags: crunchy social sharing, responsive social buttons, buffer social sharing, responsive social sharing buttons, responsive button, WhatsApp buttons, social button, social sharing, sharing buttons, twitter share, facebook share, linkedin share, pinterest share, reddit share, Tumblr Share button, Mail Share button, Pocket Share button, Telegram Share Button, YCombinator Share button
 Requires at least: 5.7
-Tested up to: 6.1.1
+Tested up to: 6.2
 Requires PHP: 7.1
-Stable tag: 4.2.0
+Stable tag: 6.1.0
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -24,7 +24,7 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 * Post/Page and any Custom Post Type (CPT) based social sharing button integration
 * Floating Social Sharing button
 * Mobile sticky bottom social sharing options
-* [crunchy_social_sharing] short code integration
+* [wp_social_sharing] short code integration
 * Auto display to Post, Page, Media and Custom Post type
 * 100% responsive
 * Reorder Social icon order easily
@@ -50,7 +50,7 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 
 **Plugin Shortcode**
 
-`[crunchy_social_sharing crunchy_social_sharing_option='facebook,twitter,linkedin,whatsapp,pinterest' twitter_username='Crunchify' icon_order='fa,tw,ln,pi,wh']`
+`[wp_social_sharing wp_social_sharing_option='facebook,twitter,linkedin,whatsapp,pinterest' twitter_username='Crunchify' icon_order='fa,tw,ln,pi,wh']`
 
 [Demo](https://crunchify.com/crunchy-sharing/)
 
@@ -93,7 +93,14 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 
 == Changelog ==
 
-= 4.2.0 =
+= 6.1.0 =
+* Bug fixes and performance enhancement
+* Tested upto version 6.2
+
+= 5.2.1 =
+* CSS optimization and bug fixes
+
+= 5.2.0 =
 * NEW: Facebook Messenger Sharing Option added
 * NEW: New Square Biscuit style added
 * Lots of CSS optimization
@@ -161,5 +168,5 @@ Crunchy Sharing is created with performance in mind. Without making any query to
 
 == Upgrade Notice ==
 
-= 3.3.0 =
+= 2.3.0 =
 We have made some improvements and fixed few bugs including WhatsApp share URL. Also, plugin is now fully compatible with WordPress 5.4.2.
